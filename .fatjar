@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Feb 02 16:06:55 CST 2015
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=YoutuiSDK_Point.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|youtui_point>~com/;<jar|android-support-v4.jar>
+includes=
