@@ -9,12 +9,12 @@ public class YtConstants {
 	
 	/**友推网址*/
 	public static final String YT_URL = "http://youtui.mobi";
-//	public static final String YT_URL = "http://192.168.4.131";
+//	public static final String YT_URL = "http://192.168.1.161";
 	/**文件保存路径*/
 	public static final String FILE_SAVE_PATH = "/youtui/";
 	/**链接跳转网页*/
 	public static final String YOUTUI_LINK_URL = "http://youtui.mobi/link/";
-//	public static final String YOUTUI_LINK_URL = "http://192.168.4.131/link/";
+//	public static final String YOUTUI_LINK_URL = "http://192.168.1.161/link/";
 	
 	/** 赠送积分接口 */
 	public static final String GIVE_POINT = YT_URL + "/activity/givePoint";

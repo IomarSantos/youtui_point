@@ -20,6 +20,7 @@ public enum ChannelId {
 	EMAIL_8,			// 邮件
 	COPYLINK_9,			// 复制链接,暂未使用
 	WECHATMOMENTS_10,	// 微信朋友圈
+	WECHATFAVORITE_14,	// 微信收藏
 	YIXIN_11,			// 易信
 	YIXINFRIENDS_12,	// 易信朋友圈
 	KAIXIN_13,			// 开心网
